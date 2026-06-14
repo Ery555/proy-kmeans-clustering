@@ -7,6 +7,7 @@ Sigue estos pasos para compilar y ejecutar las version secuencial o paralela del
 Nota: Este código fue pensado para compilarse y ejecutarse en un sistema operativo Windows con el compilador MinGW-w64 (la versión x86_64 para 64 bits) a través del entorno de desarrollo y terminal MSYS2.
 ### Compilación
 `mingw32-make`
+Nota: este comando depende de como hayas configurado tu entorno.
 ### Ejecucion de la version secuencial
 `.\bin\secuencial.exe`
 ### Seleccion de Schedule
